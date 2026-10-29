@@ -1,0 +1,278 @@
+{
+  "profile": {
+    "nameEn": "Sabr Botros",
+    "nameAr": "صبر بطرس",
+    "roleEn": "Digital Product Developer",
+    "roleAr": "مطوّر منتجات رقمية",
+    "portraitUrl": "/portrait.jpg",
+    "availableBadgeEn": "Available for projects & systems",
+    "availableBadgeAr": "متاح للمشاريع والأنظمة الجديدة",
+    "studioBadgeEn": "Libyan Code Team",
+    "studioBadgeAr": "فريق ليبيان كود",
+    "heroBioEn": "I engineer websites, custom applications, and company systems — paired with professional video editing in Premiere Pro to give every product an authentic voice.",
+    "heroBioAr": "أبني المواقع والتطبيقات وأنظمة الشركات المخصصة، بالتوازي مع مونتاج احترافي في بريميير برو لمنح كل مشروع صوتاً وحضوراً رقمياً متكاملاً.",
+    "heroTagsEn": [
+      "Websites",
+      "Applications",
+      "Premiere Pro",
+      "Company Systems",
+      "Desktop"
+    ],
+    "heroTagsAr": [
+      "مواقع",
+      "تطبيقات",
+      "بريميير برو",
+      "أنظمة شركات",
+      "سطح المكتب"
+    ]
+  },
+  "contact": {
+    "phoneDisplay": "0122 606 1045",
+    "phoneTel": "+201226061045",
+    "facebook": "https://www.facebook.com/share/1ABynFtBUX/",
+    "instagram": "https://www.instagram.com/karas_68554/",
+    "studio": "https://libyancode.com",
+    "studioSocial": "https://www.instagram.com/libyancode/",
+    "kickerEn": "Contact",
+    "kickerAr": "تواصل",
+    "titleEn": "Let's build something exceptional.",
+    "titleAr": "لنصنع معاً عملاً استثنائياً.",
+    "bodyEn": "Whether it is an application, a website, a company system, or a video campaign — let's connect.",
+    "bodyAr": "سواء كان مشروعك موقعاً، تطبيقاً، نظام إدارة لشركتك، أو فيديو يحتاج إلى مونتاج متقن — فلنتحدث."
+  },
+  "about": {
+    "kickerEn": "About",
+    "kickerAr": "عني",
+    "titleEn": "I build the product, then make sure people can see it.",
+    "titleAr": "أبني المنتج، ثم أحرص أن يراه الناس.",
+    "paragraphsEn": [
+      "I am Sabr Botros, a developer on the Libyan Code team. I like work that has to function and still feel considered: a site someone can trust, an application that fits the job, a desktop tool opened every day, a company system that keeps the details straight.",
+      "The same care goes into the picture people see. I edit video in Adobe Premiere Pro and manage social media, so a product does not stop at the code. It has a voice, a film, and a place online.",
+      "If you need someone who can sit with a problem, write the program, and finish the story around it — that is the work I want."
+    ],
+    "paragraphsAr": [
+      "أنا صبر بطرس، مطوّر ضمن فريق ليبيان كود. أحب العمل الذي يؤدي وظيفته ويبقى مدروساً: موقع يُوثق به، تطبيق يناسب العمل، برنامج سطح مكتب يُفتح كل يوم، ونظام شركة يُرتّب التفاصيل.",
+      "والعناية نفسها تذهب إلى الصورة التي يراها الناس. أحرّر الفيديو في أدوبي بريميير برو، وأتولى إدارة حسابات التواصل، فلا يتوقف المنتج عند الكود. له صوت، وفيلم، ومكان على الإنترنت.",
+      "إن احتجت من يجلس مع المشكلة، يكتب البرنامج، ويكمل الحكاية من حوله — فهذا هو العمل الذي أريده."
+    ],
+    "pillars": [
+      {
+        "id": "p1",
+        "icon": "AppWindow",
+        "titleEn": "Full-Cycle Product Engineering",
+        "titleAr": "بناء برمجي متكامل",
+        "descEn": "Designing software around real operational workflows instead of forcing people into rigid templates.",
+        "descAr": "تصميم البرمجيات بناءً على احتياج العمل الحقيقي بدلاً من فرض قوالب جاهزة تعيق الإنتاج."
+      },
+      {
+        "id": "p2",
+        "icon": "Video",
+        "titleEn": "Cinematic Post-Production",
+        "titleAr": "مونتاج وإنتاج بصري سينمائي",
+        "descEn": "Precision editing in Premiere Pro with high visual retention for announcements, reels, and digital campaigns.",
+        "descAr": "مونتاج دقيق في بريميير برو يحافظ على انتباه المشاهد من الثانية الأولى للإعلانات وحملات التواصل."
+      },
+      {
+        "id": "p3",
+        "icon": "Building2",
+        "titleEn": "Reliable Company Systems",
+        "titleAr": "أنظمة شركات يعتمد عليها",
+        "descEn": "Building the internal back-office, stock, and order management tools that businesses run on every day.",
+        "descAr": "تطوير أنظمة المبيعات والمخزون والإدارة الداخلية التي تدير أنشطة الأعمال يومياً بكل سلاسة."
+      }
+    ]
+  },
+  "studio": {
+    "kickerEn": "One of the team",
+    "kickerAr": "أحد أفراد الفريق",
+    "titleEn": "Libyan Code",
+    "titleAr": "ليبيان كود",
+    "arabicSubtitle": "Libyan Code",
+    "subtitleEn": "Software development & creative production studio",
+    "subtitleAr": "استوديو تطوير البرمجيات والإنتاج الإبداعي",
+    "bodyEn": "Libyan Code is a programming studio in Libya. The team builds websites, mobile and desktop applications, company systems, and the visual work around them — film, identity, and social. The aim is simple: join art and technology, and turn ambition into something you can actually use.",
+    "bodyAr": "ليبيان كود استوديو برمجة في ليبيا. يبني الفريق مواقع، وتطبيقات للجوال وسطح المكتب، وأنظمة للشركات، والعمل البصري من حولها: الفيلم، والهوية، والتواصل. الهدف بسيط: نجمع الفن بالتقنية، ونحوّل الطموح إلى شيء يُستخدم فعلاً.",
+    "gladEn": "I am proud to be part of this team, contributing code, applications, and visual storytelling.",
+    "gladAr": "يسعدني أن أكون واحداً من هذا الفريق، أشارك بالكود والتطبيقات والإنتاج البصري.",
+    "siteLinkEn": "Visit libyancode.com",
+    "siteLinkAr": "زيارة libyancode.com",
+    "socialLinkEn": "Follow @libyancode",
+    "socialLinkAr": "متابعة @libyancode"
+  },
+  "metrics": [
+    {
+      "id": "m1",
+      "value": "07",
+      "labelEn": "Core Capabilities",
+      "labelAr": "مجالات رئيسية",
+      "descEn": "From code to video storytelling",
+      "descAr": "من كتابة الكود حتى المونتاج"
+    },
+    {
+      "id": "m2",
+      "value": "Studio",
+      "labelEn": "Libyan Code",
+      "labelAr": "ليبيان كود",
+      "descEn": "Active team developer",
+      "descAr": "مطوّر ضمن الفريق"
+    },
+    {
+      "id": "m3",
+      "value": "100%",
+      "labelEn": "Custom Built",
+      "labelAr": "حلول مفصلة",
+      "descEn": "Tailored to the exact workflow",
+      "descAr": "تناسب سير العمل الفعلي"
+    },
+    {
+      "id": "m4",
+      "value": "Full Stack",
+      "labelEn": "Digital Impact",
+      "labelAr": "أثر رقمي متكامل",
+      "descEn": "Software, film, and social",
+      "descAr": "برمجيات، فيديو، وتواصل"
+    }
+  ],
+  "skills": [
+    {
+      "id": "s1",
+      "icon": "Video",
+      "titleEn": "Video Editing — Premiere Pro",
+      "titleAr": "مونتاج الفيديو — بريميير برو",
+      "bodyEn": "Cuts for ads, launches, and social films. A steady pace, a clean finish, and a picture that holds attention past the first second.",
+      "bodyAr": "مونتاج للإعلانات والإطلاقات وأفلام التواصل. إيقاع ثابت، وإنهاء نظيف، وصورة تُبقي الانتباه بعد الثانية الأولى.",
+      "tagsEn": [
+        "Premiere Pro",
+        "Color Grading",
+        "Social Reels",
+        "Sound Sync"
+      ],
+      "tagsAr": [
+        "بريميير برو",
+        "تلوين الفيديو",
+        "ريلز وإعلانات",
+        "مزامنة الصوت"
+      ]
+    },
+    {
+      "id": "s2",
+      "icon": "Globe",
+      "titleEn": "Website Developer",
+      "titleAr": "تطوير المواقع",
+      "bodyEn": "Sites that load quickly, read clearly, and feel considered on a phone as well as a desk. Built to be used, not just looked at.",
+      "bodyAr": "مواقع تُحمَّل بسرعة، وتُقرأ بوضوح، وتبدو مدروسة على الهاتف كما على المكتب. مبنية لتُستخدم، لا لتُشاهَد فقط.",
+      "tagsEn": [
+        "Fast Performance",
+        "Responsive UX",
+        "Modern Stack",
+        "SEO Ready"
+      ],
+      "tagsAr": [
+        "سرعة عالية",
+        "تجربة مرنة",
+        "تقنيات حديثة",
+        "تهيئة البحث"
+      ]
+    },
+    {
+      "id": "s3",
+      "icon": "AppWindow",
+      "titleEn": "Application Developer",
+      "titleAr": "تطوير التطبيقات",
+      "bodyEn": "Custom applications shaped around a real workflow. The kind of software that fits the job instead of asking the job to fit the software.",
+      "bodyAr": "تطبيقات تُفصَّل على سير عمل حقيقي. برنامج يناسب المهمة، لا مهمة تُجبَر على أن تناسب البرنامج.",
+      "tagsEn": [
+        "Business Workflows",
+        "Custom UI",
+        "Data Management",
+        "Client Apps"
+      ],
+      "tagsAr": [
+        "سير عمل الأعمال",
+        "واجهات خاصة",
+        "إدارة البيانات",
+        "تطبيقات مخصصة"
+      ]
+    },
+    {
+      "id": "s4",
+      "icon": "Share2",
+      "titleEn": "Social Media Management",
+      "titleAr": "إدارة التواصل الاجتماعي",
+      "bodyEn": "A consistent voice online. Planning, publishing, and looking after accounts so a brand shows up the same way every day — including @libyancode.",
+      "bodyAr": "صوت ثابت على الإنترنت. تخطيط، ونشر، ومتابعة للحسابات حتى يظهر الاسم بالطريقة نفسها كل يوم — بما في ذلك @libyancode.",
+      "tagsEn": [
+        "Strategy",
+        "Content Delivery",
+        "Brand Identity",
+        "@libyancode"
+      ],
+      "tagsAr": [
+        "استراتيجية",
+        "نشر محتوى",
+        "بناء هوية",
+        "@libyancode"
+      ]
+    },
+    {
+      "id": "s5",
+      "icon": "Monitor",
+      "titleEn": "Desktop Application Builder",
+      "titleAr": "بناء تطبيقات سطح المكتب",
+      "bodyEn": "Desktop tools for everyday work. Software a team can open in the morning and trust, on the machines they already use.",
+      "bodyAr": "أدوات سطح مكتب للعمل اليومي. برنامج يفتحه الفريق صباحاً ويثق به، على الأجهزة التي يستخدمها أصلاً.",
+      "tagsEn": [
+        "Native Performance",
+        "Local Workflows",
+        "Reliable State",
+        "Desktop OS"
+      ],
+      "tagsAr": [
+        "أداء أصلي",
+        "عمل دون انقطاع",
+        "حفظ بيانات محلي",
+        "تطبيقات ويندوز"
+      ]
+    },
+    {
+      "id": "s6",
+      "icon": "Building2",
+      "titleEn": "Company Systems Developer",
+      "titleAr": "تطوير أنظمة الشركات",
+      "bodyEn": "The quiet systems a shop or a company runs on. Order from the counter to the back office, written so people can actually follow it.",
+      "bodyAr": "الأنظمة الهادئة التي يدور عليها المحل أو الشركة. ترتيب من الواجهة حتى المكتب الخلفي، مكتوب بحيث يتبعه الناس فعلاً.",
+      "tagsEn": [
+        "POS Systems",
+        "Inventory Control",
+        "Order Flow",
+        "Back Office"
+      ],
+      "tagsAr": [
+        "نقاط البيع POS",
+        "إدارة المخزون",
+        "حركة الطلبات",
+        "المكتب الخلفي"
+      ]
+    },
+    {
+      "id": "s7",
+      "icon": "Code2",
+      "titleEn": "Programming Craft",
+      "titleAr": "البرمجة الحرفية",
+      "bodyEn": "The craft under everything else. Careful code, finished properly, and kept clear enough that the next change does not become a mystery.",
+      "bodyAr": "الحرفة تحت كل شيء. كود بعناية، يُنهى كما ينبغي، ويبقى واضحاً حتى لا يتحول التغيير التالي إلى لغز.",
+      "tagsEn": [
+        "Clean Code",
+        "Maintainable Logic",
+        "Architecture",
+        "Algorithms"
+      ],
+      "tagsAr": [
+        "كود نظيف",
+        "هيكلة متماسكة",
+        "صيانة سهلة",
+        "خوارزميات"
+      ]
+    }
+  ]
+}
